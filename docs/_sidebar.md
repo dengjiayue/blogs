@@ -1,8 +1,12 @@
 * [主页](/README.md)
 
-* 思维篇
-  * [弯道超车的机会](/throught/chance.md)
 
-* 程序篇
-  * [golang实现零依赖、高性能、并发mysql数据库备份](/program/mysqldump.md)
-  * [MySQL千万数据查询优化之路](/program/mysql-millions-of-data-optimization.md)
+
+- Program
+    * [使用captcha实现人机验证](/program/0524w1.md)
+    * [使用gomail库实现邮箱STMP功能发生邮件](/program/SendEmailBySMTP.md)
+- Project
+    * [Goweb框架搭建](/project/goweb.md)
+    * [登录功能设计](/project/login.md)
+- Thought
+
